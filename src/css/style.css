@@ -1,6 +1,6 @@
 #boton{
   margin-bottom: 5%;
-  margin-left: 5%;
+  margin-left: 6.5%;
   background-color: black;
   color: white;
   border: none;
@@ -10,4 +10,13 @@
 }
 .card{
   margin: 5%;
+}
+h3{
+  margin-top: 5%;
+  margin-left: 5%;
+}
+textarea{
+  margin-top: 5%;
+  margin-left: 5%;
+  resize: none;
 }
